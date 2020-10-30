@@ -19,6 +19,10 @@ public class TesteJavaGithub {
         
         System.out.println("Teste 2 Java Github");
         
+        System.out.println("Teste 3 Java Github");
+        
+        System.out.println("Teste 4 Java Github");
+        
     }
     
 }
